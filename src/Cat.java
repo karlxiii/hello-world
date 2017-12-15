@@ -8,4 +8,7 @@ public class Cat {
         this.age = age;
     }
     
+    public String toString(){
+     return "Mjau.. mjau";   
+    }
 }
