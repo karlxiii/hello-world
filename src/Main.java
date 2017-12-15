@@ -3,7 +3,8 @@ public class Main {
 
         Dog doggo = new Dog("Lasse", 10, 0);
         Cat catto = new Cat("Singah", 8);
-        System.out.print(doggo.hälsa());
+        System.out.println(doggo.hälsa());
+        System.out.println(catto.hälsa());
 
 
     }
