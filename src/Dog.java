@@ -15,6 +15,10 @@ public class Dog {
         return age2;
     }
 
+    public String hälsa(){
+        return "Hej mitt namn är " + name + "!\n" + toString();
+    }
+
     public String toString(){
         return "Voff! Voff!";
     }
