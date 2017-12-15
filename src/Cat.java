@@ -14,6 +14,12 @@ public class Cat {
 
 
     public String toString(){
+<<<<<<< HEAD
         return "Mjau..mjau!";
+=======
+        return "Mjau..mjau";
+
+ 
+>>>>>>> 02711cb3237aa24401013c4de3ad91d723d74798
     }
 }
